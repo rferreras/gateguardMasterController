@@ -1,8 +1,8 @@
 #!/bin/bash
 
-printf "====================================================\n"
-printf "Script de Instalacion Master Controller GateGuard\n"
-printf "====================================================\n\n\n"
+printf "****************************************************\n"
+printf "GATEGUARD MASTER CONTROLLER INSTALACION DE SCRIPTS\n"
+printf "****************************************************\n\n\n"
 
 printf "====================================================\n"
 printf "Instalando Apache y sus dependencias\n"
